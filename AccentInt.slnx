@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/aspire/">
+    <Project Path="AccentInt.AppHost/AccentInt.AppHost.csproj" />
+    <Project Path="AccentInt.ServiceDefaults/AccentInt.ServiceDefaults.csproj" />
+  </Folder>
+  <Project Path="AccentInt.ApiService/AccentInt.ApiService.csproj" />
+  <Project Path="AccentInt.Application/AccentInt.Application.csproj" />
+  <Project Path="AccentInt.Domain/AccentInt.Domain.csproj" />
+  <Project Path="AccentInt.Infrastructure/AccentInt.Infrastructure.csproj" />
+</Solution>
