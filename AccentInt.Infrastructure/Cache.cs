@@ -1,7 +1,6 @@
-﻿using AccentInt.Domain;
-using AccentInt.Infrastructure.Interfaces;
+﻿using AccentInt.Application.Interfaces;
+using AccentInt.Domain;
 using Microsoft.Extensions.Caching.Memory;
-using System.Diagnostics.Metrics;
 
 namespace AccentInt.Infrastructure;
 
@@ -26,26 +25,21 @@ public class Cache(IMemoryCache memoryCache) : ICache
 
     public Task<bool> ExistsAsync(string countryCode)
     {
-        if(_memoryCache.TryGetValue(countryCode, out IList<Country>? _))
+        if(_memoryCache.TryGetValue(countryCode, out _))
         {
-            Task.FromResult(true);
+            return Task.FromResult(true);
         }
 
         return Task.FromResult(false);
     }
 
-    public Task<IList<Country>> GetCountryAsync(string countryCode)
+    public Task<Country?> GetCountryAsync(string countryCode)
     {
-        if (_memoryCache.TryGetValue(countryCode, out IList<Country>? country))
+        if (_memoryCache.TryGetValue(countryCode, out Country? country))
         {
-            if(country is null)
-            {
-                return Task.FromResult<IList<Country>>([]);
-            }
-
             return Task.FromResult(country);
         }
 
-        return Task.FromResult<IList<Country>>([]);
+        return Task.FromResult<Country?>(null);
     }
 }

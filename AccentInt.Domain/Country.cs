@@ -26,7 +26,7 @@ public class Country(string code, IList<Holiday> holidays)
         Holidays.Add(holiday);
     }
 
-    public IList<Holiday> GetHolidays(Func<Holiday, bool>? filter = null, Func<Holiday, object>? orderBy = null)
+    public IList<Holiday> GetHolidays(Func<Holiday, bool>? filter = null)
     {
         if(Holidays.Count == 0 || filter == null)
         {
@@ -34,11 +34,6 @@ public class Country(string code, IList<Holiday> holidays)
         }
 
         var query = Holidays.Where(filter);
-
-        if(orderBy != null)
-        {
-            query = query.OrderByDescending(orderBy);
-        }
 
         return [.. query];
     }

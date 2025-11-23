@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Work\\int\\accenture\\AccentInt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ED57855-DDE5-8A14-BC2E-47B2A1E022D5}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|c:\\work\\int\\accenture\\accentint\\accentint.infrastructure\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED57855-DDE5-8A14-BC2E-47B2A1E022D5}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|solutionrelative:accentint.infrastructure\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2E5E638-7695-8592-FAB4-CEF761E3F9FC}|AccentInt.Application\\AccentInt.Application.csproj|c:\\work\\int\\accenture\\accentint\\accentint.application\\holidaysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E5E638-7695-8592-FAB4-CEF761E3F9FC}|AccentInt.Application\\AccentInt.Application.csproj|solutionrelative:accentint.application\\holidaysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C832B2B-6B34-7334-3319-CADA43BEBCCA}|AccentInt.ApiService\\AccentInt.ApiService.csproj|c:\\work\\int\\accenture\\accentint\\accentint.apiservice\\controllers\\holidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C832B2B-6B34-7334-3319-CADA43BEBCCA}|AccentInt.ApiService\\AccentInt.ApiService.csproj|solutionrelative:accentint.apiservice\\controllers\\holidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InfrastructureServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
-              "RelativeDocumentMoniker": "AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
-              "RelativeToolTip": "AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "HolidaysService.cs",
+              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Application\\HolidaysService.cs",
+              "RelativeDocumentMoniker": "AccentInt.Application\\HolidaysService.cs",
+              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Application\\HolidaysService.cs",
+              "RelativeToolTip": "AccentInt.Application\\HolidaysService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T10:11:38.007Z",
+              "WhenOpened": "2025-11-23T20:22:27.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HolidaysController.cs",
+              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "RelativeDocumentMoniker": "AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "RelativeToolTip": "AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:12:08.918Z",
               "EditorCaption": ""
             }
           ]

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Work\\int\\accenture\\AccentInt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C600DF7-68CC-F8F4-D970-70E4A3C50001}|AccentInt.AppHost\\AccentInt.AppHost.csproj|c:\\work\\int\\accenture\\accentint\\accentint.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C600DF7-68CC-F8F4-D970-70E4A3C50001}|AccentInt.AppHost\\AccentInt.AppHost.csproj|solutionrelative:accentint.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E5E638-7695-8592-FAB4-CEF761E3F9FC}|AccentInt.Application\\AccentInt.Application.csproj|c:\\work\\int\\accenture\\accentint\\accentint.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E5E638-7695-8592-FAB4-CEF761E3F9FC}|AccentInt.Application\\AccentInt.Application.csproj|solutionrelative:accentint.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8EC4C29-8DC2-2D7F-98FB-EBDA233F47B0}|AccentInt.Domain\\AccentInt.Domain.csproj|c:\\work\\int\\accenture\\accentint\\accentint.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8EC4C29-8DC2-2D7F-98FB-EBDA233F47B0}|AccentInt.Domain\\AccentInt.Domain.csproj|solutionrelative:accentint.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED57855-DDE5-8A14-BC2E-47B2A1E022D5}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|c:\\work\\int\\accenture\\accentint\\accentint.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED57855-DDE5-8A14-BC2E-47B2A1E022D5}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|solutionrelative:accentint.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C832B2B-6B34-7334-3319-CADA43BEBCCA}|AccentInt.ApiService\\AccentInt.ApiService.csproj|c:\\work\\int\\accenture\\accentint\\accentint.apiservice\\controllers\\holidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C832B2B-6B34-7334-3319-CADA43BEBCCA}|AccentInt.ApiService\\AccentInt.ApiService.csproj|solutionrelative:accentint.apiservice\\controllers\\holidayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppHost.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.AppHost\\AppHost.cs",
-              "RelativeDocumentMoniker": "AccentInt.AppHost\\AppHost.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.AppHost\\AppHost.cs*",
-              "RelativeToolTip": "AccentInt.AppHost\\AppHost.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Title": "HolidaysController.cs",
+              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "RelativeDocumentMoniker": "AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "RelativeToolTip": "AccentInt.ApiService\\Controllers\\HolidaysController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:51:16.544Z",
+              "WhenOpened": "2025-11-23T20:12:08.918Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "AccentInt.Application\\Class1.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Application\\Class1.cs",
-              "RelativeToolTip": "AccentInt.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:25:06.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "AccentInt.Domain\\Class1.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Domain\\Class1.cs",
-              "RelativeToolTip": "AccentInt.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:24:52.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "AccentInt.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "AccentInt.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:24:37.147Z"
             }
           ]
         }
