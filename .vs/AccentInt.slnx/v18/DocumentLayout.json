@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Work\\int\\accenture\\AccentInt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51E0822A-A7D6-4C51-BA5A-92BABA68DA4F}|AccentInt.Application\\AccentInt.Application.csproj|c:\\work\\int\\accenture\\accentint\\accentint.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51E0822A-A7D6-4C51-BA5A-92BABA68DA4F}|AccentInt.Application\\AccentInt.Application.csproj|solutionrelative:accentint.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28878064-1CC7-4708-8E9E-287C9EF657BF}|AccentInt.Domain\\AccentInt.Domain.csproj|c:\\work\\int\\accenture\\accentint\\accentint.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28878064-1CC7-4708-8E9E-287C9EF657BF}|AccentInt.Domain\\AccentInt.Domain.csproj|solutionrelative:accentint.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A890EEE-5760-47B0-A748-2E9D244D13D0}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|c:\\work\\int\\accenture\\accentint\\accentint.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A890EEE-5760-47B0-A748-2E9D244D13D0}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|solutionrelative:accentint.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED57855-DDE5-8A14-BC2E-47B2A1E022D5}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|c:\\work\\int\\accenture\\accentint\\accentint.infrastructure\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED57855-DDE5-8A14-BC2E-47B2A1E022D5}|AccentInt.Infrastructure\\AccentInt.Infrastructure.csproj|solutionrelative:accentint.infrastructure\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "AccentInt.Application\\Class1.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Application\\Class1.cs",
-              "RelativeToolTip": "AccentInt.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "InfrastructureServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
+              "RelativeDocumentMoniker": "AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
+              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
+              "RelativeToolTip": "AccentInt.Infrastructure\\InfrastructureServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:25:06.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "AccentInt.Domain\\Class1.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Domain\\Class1.cs",
-              "RelativeToolTip": "AccentInt.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:24:52.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "AccentInt.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Work\\int\\accenture\\AccentInt\\AccentInt.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "AccentInt.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:24:37.147Z",
+              "WhenOpened": "2025-11-23T10:11:38.007Z",
               "EditorCaption": ""
             }
           ]

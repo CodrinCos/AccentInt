@@ -1,10 +1,17 @@
+using AccentInt.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//Logger
+var logger = LoggerFactory.Create(config => config.AddConsole()).CreateLogger("Program");
 
 // Add service defaults & Aspire client integrations.
 builder.AddServiceDefaults();
 
 // Add services to the container.
 builder.Services.AddProblemDetails();
+
+builder.Services.AddInfrastructureServices(logger);
 
 var app = builder.Build();
 
